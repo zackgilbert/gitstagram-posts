@@ -6,7 +6,15 @@
   "authorAvatar": "https://avatars.githubusercontent.com/u/432526?v=4",
   "imageUrl": "https://raw.githubusercontent.com/zackgilbert/gitstagram-posts/main/posts/post-1766548280157/image.png",
   "likes": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "comment-1766548628308",
+      "author": "zackgilbert",
+      "authorAvatar": "https://avatars.githubusercontent.com/u/432526?v=4",
+      "text": "Does commenting work yet?",
+      "timestamp": "2025-12-24T03:57:08.308Z"
+    }
+  ],
   "likedBy": [
     "zackgilbert"
   ]
