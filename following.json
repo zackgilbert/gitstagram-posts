@@ -1,865 +1,980 @@
 {
   "following": [
     {
-      "username": "dilliedoodle",
-      "href": "https://www.instagram.com/_u/dilliedoodle",
-      "timestamp": "2025-12-24T04:13:17.000Z",
-      "hasGitstagram": false,
-      "githubNotFound": true
-    },
-    {
       "username": "subwaytakes",
       "href": "https://www.instagram.com/_u/subwaytakes",
       "timestamp": "2025-11-22T02:40:44.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/subwaytakes?fallback=false"
     },
     {
       "username": "augustaplanner",
       "href": "https://www.instagram.com/_u/augustaplanner",
       "timestamp": "2025-11-07T20:01:51.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/augustaplanner?fallback=false"
     },
     {
       "username": "gunnargunnar",
       "href": "https://www.instagram.com/_u/gunnargunnar",
       "timestamp": "2025-11-05T10:08:06.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/gunnargunnar?fallback=false"
     },
     {
       "username": "vick_hiatt",
       "href": "https://www.instagram.com/_u/vick_hiatt",
       "timestamp": "2025-11-02T19:58:20.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/vick_hiatt?fallback=false"
     },
     {
       "username": "hiattdane",
       "href": "https://www.instagram.com/_u/hiattdane",
       "timestamp": "2025-11-01T15:06:02.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/hiattdane?fallback=false"
     },
     {
       "username": "crowleke",
       "href": "https://www.instagram.com/_u/crowleke",
       "timestamp": "2025-11-01T15:01:57.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/crowleke?fallback=false"
     },
     {
       "username": "oh_em_ji",
       "href": "https://www.instagram.com/_u/oh_em_ji",
       "timestamp": "2024-10-19T23:14:27.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/oh_em_ji?fallback=false"
     },
     {
       "username": "mojave",
       "href": "https://www.instagram.com/_u/mojave",
       "timestamp": "2024-08-11T23:08:20.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/mojave?fallback=false"
     },
     {
       "username": "logcabinatclifflake",
       "href": "https://www.instagram.com/_u/logcabinatclifflake",
       "timestamp": "2024-08-11T21:02:14.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/logcabinatclifflake?fallback=false"
     },
     {
       "username": "claudable",
       "href": "https://www.instagram.com/_u/claudable",
       "timestamp": "2023-12-18T21:32:01.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/claudable?fallback=false"
     },
     {
       "username": "worldofthewebsite",
       "href": "https://www.instagram.com/_u/worldofthewebsite",
       "timestamp": "2023-12-16T23:43:40.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/worldofthewebsite?fallback=false"
     },
     {
       "username": "bykelseygk",
       "href": "https://www.instagram.com/_u/bykelseygk",
       "timestamp": "2023-06-23T01:24:26.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/bykelseygk?fallback=false"
     },
     {
       "username": "yansey76",
       "href": "https://www.instagram.com/_u/yansey76",
       "timestamp": "2022-08-24T02:42:47.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/yansey76?fallback=false"
     },
     {
       "username": "brebba_claire",
       "href": "https://www.instagram.com/_u/brebba_claire",
       "timestamp": "2022-07-03T13:25:06.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/brebba_claire?fallback=false"
     },
     {
       "username": "abledotcom",
       "href": "https://www.instagram.com/_u/abledotcom",
       "timestamp": "2021-10-29T06:21:34.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/abledotcom?fallback=false"
     },
     {
       "username": "alexandriagameswi",
       "href": "https://www.instagram.com/_u/alexandriagameswi",
       "timestamp": "2021-08-06T22:58:54.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/alexandriagameswi?fallback=false"
     },
     {
       "username": "weekofthewebsite",
       "href": "https://www.instagram.com/_u/weekofthewebsite",
       "timestamp": "2020-12-16T22:31:33.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/weekofthewebsite?fallback=false"
     },
     {
       "username": "kayko26",
       "href": "https://www.instagram.com/_u/kayko26",
       "timestamp": "2020-07-05T13:40:40.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/kayko26?fallback=false"
     },
     {
       "username": "waylerzero",
       "href": "https://www.instagram.com/_u/waylerzero",
       "timestamp": "2020-06-25T13:39:52.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/waylerzero?fallback=false"
     },
     {
       "username": "yoadrienne__w",
       "href": "https://www.instagram.com/_u/yoadrienne__w",
       "timestamp": "2020-04-18T03:21:25.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/yoadrienne__w?fallback=false"
     },
     {
       "username": "creyes221",
       "href": "https://www.instagram.com/_u/creyes221",
       "timestamp": "2020-04-07T14:14:53.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/creyes221?fallback=false"
     },
     {
       "username": "jt_5213",
       "href": "https://www.instagram.com/_u/jt_5213",
       "timestamp": "2020-02-28T03:57:21.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/jt_5213?fallback=false"
     },
     {
       "username": "yaw_ives",
       "href": "https://www.instagram.com/_u/yaw_ives",
       "timestamp": "2020-02-26T11:39:04.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/yaw_ives?fallback=false"
     },
     {
       "username": "nationalparkservice",
       "href": "https://www.instagram.com/_u/nationalparkservice",
       "timestamp": "2020-01-26T05:51:21.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/nationalparkservice?fallback=false"
     },
     {
       "username": "going",
       "href": "https://www.instagram.com/_u/going",
       "timestamp": "2020-01-26T05:51:18.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/going?fallback=false"
     },
     {
       "username": "brenebrown",
       "href": "https://www.instagram.com/_u/brenebrown",
       "timestamp": "2020-01-11T00:51:11.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/brenebrown?fallback=false"
     },
     {
       "username": "hyggesupply",
       "href": "https://www.instagram.com/_u/hyggesupply",
       "timestamp": "2020-01-09T04:34:10.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/hyggesupply?fallback=false"
     },
     {
       "username": "jackosborne",
       "href": "https://www.instagram.com/_u/jackosborne",
       "timestamp": "2019-11-14T23:47:44.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/jackosborne?fallback=false"
     },
     {
       "username": "katiestipo",
       "href": "https://www.instagram.com/_u/katiestipo",
       "timestamp": "2019-11-03T13:01:22.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/katiestipo?fallback=false"
     },
     {
       "username": "carelizlitch",
       "href": "https://www.instagram.com/_u/carelizlitch",
       "timestamp": "2019-09-15T22:25:15.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/carelizlitch?fallback=false"
     },
     {
       "username": "iamtommyenglish",
       "href": "https://www.instagram.com/_u/iamtommyenglish",
       "timestamp": "2019-09-15T22:22:57.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/iamtommyenglish?fallback=false"
     },
     {
       "username": "keetonlauren",
       "href": "https://www.instagram.com/_u/keetonlauren",
       "timestamp": "2019-09-15T22:22:54.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/keetonlauren?fallback=false"
     },
     {
       "username": "ckeyspyt",
       "href": "https://www.instagram.com/_u/ckeyspyt",
       "timestamp": "2019-09-15T22:22:39.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/ckeyspyt?fallback=false"
     },
     {
       "username": "samjorden",
       "href": "https://www.instagram.com/_u/samjorden",
       "timestamp": "2019-09-15T22:22:35.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/samjorden?fallback=false"
     },
     {
       "username": "stephjjax",
       "href": "https://www.instagram.com/_u/stephjjax",
       "timestamp": "2019-08-22T17:06:47.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/stephjjax?fallback=false"
     },
     {
       "username": "vngelmong",
       "href": "https://www.instagram.com/_u/vngelmong",
       "timestamp": "2019-08-22T15:49:49.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/vngelmong?fallback=false"
     },
     {
       "username": "chicanolita",
       "href": "https://www.instagram.com/_u/chicanolita",
       "timestamp": "2019-08-22T15:48:29.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/chicanolita?fallback=false"
     },
     {
       "username": "brucethewirefoxterrier",
       "href": "https://www.instagram.com/_u/brucethewirefoxterrier",
       "timestamp": "2019-08-22T15:47:14.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/brucethewirefoxterrier?fallback=false"
     },
     {
       "username": "rahulpratapm",
       "href": "https://www.instagram.com/_u/rahulpratapm",
       "timestamp": "2019-08-22T15:46:39.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/rahulpratapm?fallback=false"
     },
     {
       "username": "bcmackey",
       "href": "https://www.instagram.com/_u/bcmackey",
       "timestamp": "2019-08-22T15:46:35.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/bcmackey?fallback=false"
     },
     {
       "username": "hannahlikesyou",
       "href": "https://www.instagram.com/_u/hannahlikesyou",
       "timestamp": "2019-08-22T15:46:12.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/hannahlikesyou?fallback=false"
     },
     {
       "username": "matthewhuie",
       "href": "https://www.instagram.com/_u/matthewhuie",
       "timestamp": "2019-08-22T15:45:26.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/matthewhuie?fallback=false"
     },
     {
       "username": "blabadarlins",
       "href": "https://www.instagram.com/_u/blabadarlins",
       "timestamp": "2019-06-23T00:39:50.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/blabadarlins?fallback=false"
     },
     {
       "username": "neutralparty_",
       "href": "https://www.instagram.com/_u/neutralparty_",
       "timestamp": "2019-05-13T03:17:31.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/neutralparty_?fallback=false"
     },
     {
       "username": "spacex",
       "href": "https://www.instagram.com/_u/spacex",
       "timestamp": "2018-12-30T18:30:05.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/spacex?fallback=false"
     },
     {
       "username": "toniewan",
       "href": "https://www.instagram.com/_u/toniewan",
       "timestamp": "2018-12-08T05:00:41.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/toniewan?fallback=false"
     },
     {
       "username": "carlikreiling_42",
       "href": "https://www.instagram.com/_u/carlikreiling_42",
       "timestamp": "2018-12-07T21:53:14.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/carlikreiling_42?fallback=false"
     },
     {
       "username": "nkanetka",
       "href": "https://www.instagram.com/_u/nkanetka",
       "timestamp": "2018-12-07T21:36:42.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/nkanetka?fallback=false"
     },
     {
       "username": "ryan_kotzy",
       "href": "https://www.instagram.com/_u/ryan_kotzy",
       "timestamp": "2018-12-05T04:26:11.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/ryan_kotzy?fallback=false"
     },
     {
       "username": "olafurarnalds",
       "href": "https://www.instagram.com/_u/olafurarnalds",
       "timestamp": "2018-10-14T15:15:24.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/olafurarnalds?fallback=false"
     },
     {
       "username": "samgrossberg",
       "href": "https://www.instagram.com/_u/samgrossberg",
       "timestamp": "2018-07-13T23:43:08.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/samgrossberg?fallback=false"
     },
     {
       "username": "rachelgellmanjohnson",
       "href": "https://www.instagram.com/_u/rachelgellmanjohnson",
       "timestamp": "2018-06-26T02:42:34.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/rachelgellmanjohnson?fallback=false"
     },
     {
       "username": "borntoleus",
       "href": "https://www.instagram.com/_u/borntoleus",
       "timestamp": "2018-05-21T02:04:51.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/borntoleus?fallback=false"
     },
     {
       "username": "nealsales",
       "href": "https://www.instagram.com/_u/nealsales",
       "timestamp": "2018-03-10T23:11:46.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/nealsales?fallback=false"
     },
     {
       "username": "eborjons",
       "href": "https://www.instagram.com/_u/eborjons",
       "timestamp": "2018-01-27T03:52:55.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/eborjons?fallback=false"
     },
     {
       "username": "hahahotdogs",
       "href": "https://www.instagram.com/_u/hahahotdogs",
       "timestamp": "2017-11-04T22:15:57.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/hahahotdogs?fallback=false"
     },
     {
       "username": "fifi_from_paris",
       "href": "https://www.instagram.com/_u/fifi_from_paris",
       "timestamp": "2017-10-16T22:13:18.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/fifi_from_paris?fallback=false"
     },
     {
       "username": "bob_orangechevy",
       "href": "https://www.instagram.com/_u/bob_orangechevy",
       "timestamp": "2017-06-30T15:59:54.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/bob_orangechevy?fallback=false"
     },
     {
       "username": "lisadieder",
       "href": "https://www.instagram.com/_u/lisadieder",
       "timestamp": "2017-06-23T10:56:50.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/lisadieder?fallback=false"
     },
     {
       "username": "tsteph",
       "href": "https://www.instagram.com/_u/tsteph",
       "timestamp": "2017-06-21T15:56:56.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/tsteph?fallback=false"
     },
     {
       "username": "rubenhassel",
       "href": "https://www.instagram.com/_u/rubenhassel",
       "timestamp": "2017-06-21T15:34:38.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/rubenhassel?fallback=false"
     },
     {
       "username": "anastasia_michalski",
       "href": "https://www.instagram.com/_u/anastasia_michalski",
       "timestamp": "2017-06-21T07:12:53.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/anastasia_michalski?fallback=false"
     },
     {
       "username": "samueljstephenson",
       "href": "https://www.instagram.com/_u/samueljstephenson",
       "timestamp": "2017-06-19T17:29:31.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/samueljstephenson?fallback=false"
     },
     {
       "username": "ckreiling42",
       "href": "https://www.instagram.com/_u/ckreiling42",
       "timestamp": "2017-06-17T19:50:57.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/ckreiling42?fallback=false"
     },
     {
       "username": "mcculloughsean",
       "href": "https://www.instagram.com/_u/mcculloughsean",
       "timestamp": "2017-06-17T17:35:09.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/mcculloughsean?fallback=false"
     },
     {
       "username": "jgombz",
       "href": "https://www.instagram.com/_u/jgombz",
       "timestamp": "2017-04-08T16:08:08.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/jgombz?fallback=false"
     },
     {
       "username": "hheerrbbyy",
       "href": "https://www.instagram.com/_u/hheerrbbyy",
       "timestamp": "2017-03-25T01:31:00.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/hheerrbbyy?fallback=false"
     },
     {
       "username": "marionjonx",
       "href": "https://www.instagram.com/_u/marionjonx",
       "timestamp": "2016-12-03T15:41:33.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/marionjonx?fallback=false"
     },
     {
       "username": "heypenpal",
       "href": "https://www.instagram.com/_u/heypenpal",
       "timestamp": "2016-11-15T18:15:24.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/heypenpal?fallback=false"
     },
     {
       "username": "claireehhill",
       "href": "https://www.instagram.com/_u/claireehhill",
       "timestamp": "2016-11-05T18:59:25.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/claireehhill?fallback=false"
     },
     {
       "username": "brandonweiss",
       "href": "https://www.instagram.com/_u/brandonweiss",
       "timestamp": "2016-11-05T18:59:19.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/brandonweiss?fallback=false"
     },
     {
       "username": "bcausey13",
       "href": "https://www.instagram.com/_u/bcausey13",
       "timestamp": "2016-06-13T13:15:25.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/bcausey13?fallback=false"
     },
     {
       "username": "samwrobinson",
       "href": "https://www.instagram.com/_u/samwrobinson",
       "timestamp": "2016-06-12T15:02:27.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/samwrobinson?fallback=false"
     },
     {
       "username": "mymiddleseat",
       "href": "https://www.instagram.com/_u/mymiddleseat",
       "timestamp": "2016-05-08T23:06:18.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/mymiddleseat?fallback=false"
     },
     {
       "username": "harperreed",
       "href": "https://www.instagram.com/_u/harperreed",
       "timestamp": "2016-05-06T22:00:52.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/harperreed?fallback=false"
     },
     {
       "username": "britandethan",
       "href": "https://www.instagram.com/_u/britandethan",
       "timestamp": "2016-05-06T21:58:14.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/britandethan?fallback=false"
     },
     {
       "username": "tammygilbertt",
       "href": "https://www.instagram.com/_u/tammygilbertt",
       "timestamp": "2016-03-30T13:58:09.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/tammygilbertt?fallback=false"
     },
     {
       "username": "ethanaustin",
       "href": "https://www.instagram.com/_u/ethanaustin",
       "timestamp": "2016-03-10T14:45:43.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/ethanaustin?fallback=false"
     },
     {
       "username": "bluerssen",
       "href": "https://www.instagram.com/_u/bluerssen",
       "timestamp": "2016-03-10T14:45:33.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/bluerssen?fallback=false"
     },
     {
       "username": "jasondoesstuff",
       "href": "https://www.instagram.com/_u/jasondoesstuff",
       "timestamp": "2016-03-06T18:11:35.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/jasondoesstuff?fallback=false"
     },
     {
       "username": "pjrvs",
       "href": "https://www.instagram.com/_u/pjrvs",
       "timestamp": "2016-02-05T00:24:05.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/pjrvs?fallback=false"
     },
     {
       "username": "xlaurengilbert",
       "href": "https://www.instagram.com/_u/xlaurengilbert",
       "timestamp": "2015-12-28T20:27:23.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/xlaurengilbert?fallback=false"
     },
     {
       "username": "rachel.gilbertt",
       "href": "https://www.instagram.com/_u/rachel.gilbertt",
       "timestamp": "2015-10-18T14:04:23.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/rachel.gilbertt?fallback=false"
     },
     {
       "username": "erin_bischoffberger",
       "href": "https://www.instagram.com/_u/erin_bischoffberger",
       "timestamp": "2015-10-09T00:09:48.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/erin_bischoffberger?fallback=false"
     },
     {
       "username": "snacksicily",
       "href": "https://www.instagram.com/_u/snacksicily",
       "timestamp": "2015-07-08T14:24:17.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/snacksicily?fallback=false"
     },
     {
       "username": "copperoranges",
       "href": "https://www.instagram.com/_u/copperoranges",
       "timestamp": "2015-06-30T21:13:21.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/copperoranges?fallback=false"
     },
     {
       "username": "ethanaarojones",
       "href": "https://www.instagram.com/_u/ethanaarojones",
       "timestamp": "2015-06-03T00:31:03.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/ethanaarojones?fallback=false"
     },
     {
       "username": "bigtimejohnny",
       "href": "https://www.instagram.com/_u/bigtimejohnny",
       "timestamp": "2015-05-25T19:59:45.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/bigtimejohnny?fallback=false"
     },
     {
       "username": "feenyland",
       "href": "https://www.instagram.com/_u/feenyland",
       "timestamp": "2015-04-19T20:35:16.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/feenyland?fallback=false"
     },
     {
       "username": "brettandrewgilbert",
       "href": "https://www.instagram.com/_u/brettandrewgilbert",
       "timestamp": "2015-02-01T23:58:18.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/brettandrewgilbert?fallback=false"
     },
     {
       "username": "bryantews",
       "href": "https://www.instagram.com/_u/bryantews",
       "timestamp": "2015-01-07T16:03:58.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/bryantews?fallback=false"
     },
     {
       "username": "benedictfritz",
       "href": "https://www.instagram.com/_u/benedictfritz",
       "timestamp": "2014-12-06T23:10:04.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/benedictfritz?fallback=false"
     },
     {
       "username": "chelsealavin",
       "href": "https://www.instagram.com/_u/chelsealavin",
       "timestamp": "2014-11-06T03:50:48.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/chelsealavin?fallback=false"
     },
     {
       "username": "logreglan",
       "href": "https://www.instagram.com/_u/logreglan",
       "timestamp": "2014-09-19T15:38:17.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/logreglan?fallback=false"
     },
     {
       "username": "susan51g",
       "href": "https://www.instagram.com/_u/susan51g",
       "timestamp": "2014-08-29T03:49:52.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/susan51g?fallback=false"
     },
     {
       "username": "alexrosefilipiak",
       "href": "https://www.instagram.com/_u/alexrosefilipiak",
       "timestamp": "2014-08-29T03:14:41.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/alexrosefilipiak?fallback=false"
     },
     {
       "username": "presenceagency",
       "href": "https://www.instagram.com/_u/presenceagency",
       "timestamp": "2014-08-20T03:37:13.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/presenceagency?fallback=false"
     },
     {
       "username": "inspiredbyiceland",
       "href": "https://www.instagram.com/_u/inspiredbyiceland",
       "timestamp": "2014-08-06T15:57:12.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/inspiredbyiceland?fallback=false"
     },
     {
       "username": "annmeisinger",
       "href": "https://www.instagram.com/_u/annmeisinger",
       "timestamp": "2014-07-09T01:35:21.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/annmeisinger?fallback=false"
     },
     {
       "username": "mallory_crutchfield",
       "href": "https://www.instagram.com/_u/mallory_crutchfield",
       "timestamp": "2014-05-21T14:16:04.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/mallory_crutchfield?fallback=false"
     },
     {
       "username": "allenburt",
       "href": "https://www.instagram.com/_u/allenburt",
       "timestamp": "2014-03-01T16:55:03.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/allenburt?fallback=false"
     },
     {
       "username": "srcurran",
       "href": "https://www.instagram.com/_u/srcurran",
       "timestamp": "2013-12-21T05:42:59.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/srcurran?fallback=false"
     },
     {
       "username": "timcheadle",
       "href": "https://www.instagram.com/_u/timcheadle",
       "timestamp": "2013-12-10T20:04:43.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/timcheadle?fallback=false"
     },
     {
       "username": "rickyrobinett",
       "href": "https://www.instagram.com/_u/rickyrobinett",
       "timestamp": "2013-10-07T18:28:19.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/rickyrobinett?fallback=false"
     },
     {
       "username": "potluckcreative",
       "href": "https://www.instagram.com/_u/potluckcreative",
       "timestamp": "2013-09-24T22:55:20.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/potluckcreative?fallback=false"
     },
     {
       "username": "mrlitch",
       "href": "https://www.instagram.com/_u/mrlitch",
       "timestamp": "2013-09-24T06:36:57.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/mrlitch?fallback=false"
     },
     {
       "username": "meg.bertrand",
       "href": "https://www.instagram.com/_u/meg.bertrand",
       "timestamp": "2013-09-21T03:57:52.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/meg.bertrand?fallback=false"
     },
     {
       "username": "sethkravitz",
       "href": "https://www.instagram.com/_u/sethkravitz",
       "timestamp": "2013-09-08T23:38:56.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/sethkravitz?fallback=false"
     },
     {
       "username": "wingpup",
       "href": "https://www.instagram.com/_u/wingpup",
       "timestamp": "2013-08-15T15:36:15.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/wingpup?fallback=false"
     },
     {
       "username": "erineatseverything",
       "href": "https://www.instagram.com/_u/erineatseverything",
       "timestamp": "2013-07-07T05:13:00.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/erineatseverything?fallback=false"
     },
     {
       "username": "m_woah",
       "href": "https://www.instagram.com/_u/m_woah",
       "timestamp": "2013-06-03T13:56:24.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/m_woah?fallback=false"
     },
     {
       "username": "mulligan",
       "href": "https://www.instagram.com/_u/mulligan",
       "timestamp": "2012-12-09T05:35:16.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/mulligan?fallback=false"
     },
     {
       "username": "traceyryankreiling",
       "href": "https://www.instagram.com/_u/traceyryankreiling",
       "timestamp": "2012-11-24T20:13:59.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/traceyryankreiling?fallback=false"
     },
     {
       "username": "jen.trusty",
       "href": "https://www.instagram.com/_u/jen.trusty",
       "timestamp": "2012-11-23T16:11:03.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/jen.trusty?fallback=false"
     },
     {
       "username": "evanmrees",
       "href": "https://www.instagram.com/_u/evanmrees",
       "timestamp": "2012-11-23T16:10:58.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/evanmrees?fallback=false"
     },
     {
       "username": "m.e.g.rees",
       "href": "https://www.instagram.com/_u/m.e.g.rees",
       "timestamp": "2012-11-23T05:09:31.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/m.e.g.rees?fallback=false"
     },
     {
       "username": "mpnijk",
       "href": "https://www.instagram.com/_u/mpnijk",
       "timestamp": "2012-11-22T21:59:00.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/mpnijk?fallback=false"
     },
     {
       "username": "janeborjon",
       "href": "https://www.instagram.com/_u/janeborjon",
       "timestamp": "2012-11-22T18:42:38.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/janeborjon?fallback=false"
     },
     {
       "username": "snahikian",
       "href": "https://www.instagram.com/_u/snahikian",
       "timestamp": "2012-11-07T03:05:29.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/snahikian?fallback=false"
     },
     {
       "username": "moniquemont",
       "href": "https://www.instagram.com/_u/moniquemont",
       "timestamp": "2012-11-03T18:10:39.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/moniquemont?fallback=false"
     },
     {
       "username": "melishanahan",
       "href": "https://www.instagram.com/_u/melishanahan",
       "timestamp": "2012-10-07T13:56:36.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/melishanahan?fallback=false"
     },
     {
       "username": "katelenee",
       "href": "https://www.instagram.com/_u/katelenee",
       "timestamp": "2012-07-04T03:13:24.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/katelenee?fallback=false"
     },
     {
       "username": "alisonfraker",
@@ -868,7 +983,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/241339277?v=4",
-      "githubName": null
+      "githubName": null,
+      "avatarUrl": "https://unavatar.io/instagram/alisonfraker?fallback=false"
     },
     {
       "username": "adamhaun",
@@ -877,28 +993,32 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/3291330?v=4",
-      "githubName": "Adam Haun"
+      "githubName": "Adam Haun",
+      "avatarUrl": "https://unavatar.io/instagram/adamhaun?fallback=false"
     },
     {
       "username": "heymarkw",
       "href": "https://www.instagram.com/_u/heymarkw",
       "timestamp": "2012-06-28T16:16:47.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/heymarkw?fallback=false"
     },
     {
       "username": "alright__fine",
       "href": "https://www.instagram.com/_u/alright__fine",
       "timestamp": "2012-06-28T16:15:45.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/alright__fine?fallback=false"
     },
     {
       "username": "billfilipiak",
       "href": "https://www.instagram.com/_u/billfilipiak",
       "timestamp": "2012-05-16T02:24:17.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/billfilipiak?fallback=false"
     },
     {
       "username": "ryanevans",
@@ -907,28 +1027,32 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/434410?v=4",
-      "githubName": "randmediagroup"
+      "githubName": "randmediagroup",
+      "avatarUrl": "https://unavatar.io/instagram/ryanevans?fallback=false"
     },
     {
       "username": "heddahart",
       "href": "https://www.instagram.com/_u/heddahart",
       "timestamp": "2012-04-11T16:24:33.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/heddahart?fallback=false"
     },
     {
       "username": "kelseysaurus",
       "href": "https://www.instagram.com/_u/kelseysaurus",
       "timestamp": "2012-03-31T03:17:51.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/kelseysaurus?fallback=false"
     },
     {
       "username": "lexidee26",
       "href": "https://www.instagram.com/_u/lexidee26",
       "timestamp": "2012-03-24T20:48:48.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/lexidee26?fallback=false"
     },
     {
       "username": "melissajoykong",
@@ -937,7 +1061,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/13529307?v=4",
-      "githubName": "Melissa Joy Kong"
+      "githubName": "Melissa Joy Kong",
+      "avatarUrl": "https://unavatar.io/instagram/melissajoykong?fallback=false"
     },
     {
       "username": "zackkitzmiller",
@@ -946,7 +1071,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/111536?v=4",
-      "githubName": "Zack Kitzmiller"
+      "githubName": "Zack Kitzmiller",
+      "avatarUrl": "https://unavatar.io/instagram/zackkitzmiller?fallback=false"
     },
     {
       "username": "allenpenn",
@@ -955,7 +1081,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/3848748?v=4",
-      "githubName": null
+      "githubName": null,
+      "avatarUrl": "https://unavatar.io/instagram/allenpenn?fallback=false"
     },
     {
       "username": "beckyrother",
@@ -964,7 +1091,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/1392130?v=4",
-      "githubName": "Becky Rother"
+      "githubName": "Becky Rother",
+      "avatarUrl": "https://unavatar.io/instagram/beckyrother?fallback=false"
     },
     {
       "username": "felska",
@@ -973,7 +1101,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/5992567?v=4",
-      "githubName": "Jill Felska"
+      "githubName": "Jill Felska",
+      "avatarUrl": "https://unavatar.io/instagram/felska?fallback=false"
     },
     {
       "username": "themightyowl",
@@ -982,14 +1111,16 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/47759964?v=4",
-      "githubName": "thebadguy"
+      "githubName": "thebadguy",
+      "avatarUrl": "https://unavatar.io/instagram/themightyowl?fallback=false"
     },
     {
       "username": "kyleleebeck",
       "href": "https://www.instagram.com/_u/kyleleebeck",
       "timestamp": "2011-12-10T19:34:12.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/kyleleebeck?fallback=false"
     },
     {
       "username": "jeisenberg",
@@ -998,7 +1129,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/530926?v=4",
-      "githubName": "Jack Eisenberg"
+      "githubName": "Jack Eisenberg",
+      "avatarUrl": "https://unavatar.io/instagram/jeisenberg?fallback=false"
     },
     {
       "username": "kellythebruce",
@@ -1007,14 +1139,16 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/104802250?v=4",
-      "githubName": null
+      "githubName": null,
+      "avatarUrl": "https://unavatar.io/instagram/kellythebruce?fallback=false"
     },
     {
       "username": "br_ttany",
       "href": "https://www.instagram.com/_u/br_ttany",
       "timestamp": "2011-07-25T00:51:54.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/br_ttany?fallback=false"
     },
     {
       "username": "jpdelara",
@@ -1023,35 +1157,40 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/122575444?v=4",
-      "githubName": null
+      "githubName": null,
+      "avatarUrl": "https://unavatar.io/instagram/jpdelara?fallback=false"
     },
     {
       "username": "thecheekychef",
       "href": "https://www.instagram.com/_u/thecheekychef",
       "timestamp": "2011-06-26T16:48:13.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/thecheekychef?fallback=false"
     },
     {
       "username": "katiehappens",
       "href": "https://www.instagram.com/_u/katiehappens",
       "timestamp": "2011-04-10T22:21:22.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/katiehappens?fallback=false"
     },
     {
       "username": "altdo",
       "href": "https://www.instagram.com/_u/altdo",
       "timestamp": "2011-03-05T04:20:43.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/altdo?fallback=false"
     },
     {
       "username": "0_valencia",
       "href": "https://www.instagram.com/_u/0_valencia",
       "timestamp": "2011-03-05T04:20:31.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/0_valencia?fallback=false"
     },
     {
       "username": "kmalone",
@@ -1060,7 +1199,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/1807303?v=4",
-      "githubName": "Kevin "
+      "githubName": "Kevin ",
+      "avatarUrl": "https://unavatar.io/instagram/kmalone?fallback=false"
     },
     {
       "username": "marksbertrand",
@@ -1069,7 +1209,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/468404?v=4",
-      "githubName": "Mark"
+      "githubName": "Mark",
+      "avatarUrl": "https://unavatar.io/instagram/marksbertrand?fallback=false"
     },
     {
       "username": "ryanburke",
@@ -1078,14 +1219,16 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/826411?v=4",
-      "githubName": "Ryan Burke"
+      "githubName": "Ryan Burke",
+      "avatarUrl": "https://unavatar.io/instagram/ryanburke?fallback=false"
     },
     {
       "username": "dan_leu",
       "href": "https://www.instagram.com/_u/dan_leu",
       "timestamp": "2010-11-03T17:28:50.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/dan_leu?fallback=false"
     },
     {
       "username": "davideverly",
@@ -1094,7 +1237,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/16761419?v=4",
-      "githubName": null
+      "githubName": null,
+      "avatarUrl": "https://unavatar.io/instagram/davideverly?fallback=false"
     },
     {
       "username": "thorpus",
@@ -1103,14 +1247,16 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/1800912?v=4",
-      "githubName": null
+      "githubName": null,
+      "avatarUrl": "https://unavatar.io/instagram/thorpus?fallback=false"
     },
     {
       "username": "steyblind",
       "href": "https://www.instagram.com/_u/steyblind",
       "timestamp": "2010-10-29T21:19:25.000Z",
       "hasGitstagram": false,
-      "githubNotFound": true
+      "githubNotFound": true,
+      "avatarUrl": "https://unavatar.io/instagram/steyblind?fallback=false"
     },
     {
       "username": "mattdennewitz",
@@ -1119,7 +1265,8 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/114329?v=4",
-      "githubName": "Matt Dennewitz"
+      "githubName": "Matt Dennewitz",
+      "avatarUrl": "https://unavatar.io/instagram/mattdennewitz?fallback=false"
     },
     {
       "username": "danielzarick",
@@ -1128,8 +1275,9 @@
       "hasGitstagram": false,
       "githubNotFound": true,
       "githubAvatar": "https://avatars.githubusercontent.com/u/70777?v=4",
-      "githubName": "Daniel Zarick"
+      "githubName": "Daniel Zarick",
+      "avatarUrl": "https://unavatar.io/instagram/danielzarick?fallback=false"
     }
   ],
-  "updatedAt": "2025-12-24T05:00:47.532Z"
+  "updatedAt": "2025-12-24T05:19:38.513Z"
 }
