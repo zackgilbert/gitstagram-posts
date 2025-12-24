@@ -5,6 +5,9 @@
   "author": "zackgilbert",
   "authorAvatar": "https://avatars.githubusercontent.com/u/432526?v=4",
   "imageUrl": "https://raw.githubusercontent.com/zackgilbert/gitstagram-posts/main/posts/post-1766548280157/image.png",
-  "likes": 0,
-  "comments": []
+  "likes": 1,
+  "comments": [],
+  "likedBy": [
+    "zackgilbert"
+  ]
 }
